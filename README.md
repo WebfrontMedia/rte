@@ -1,1 +1,1 @@
-# rte
+# WebFront Media Rich Text Editor
